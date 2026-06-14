@@ -5,8 +5,7 @@ devaply is a small senior team that builds digital products from a to z. Strateg
 
 # 👨‍💻 Meet the team
 
-- <a href="https://github.com/kklrh">Abdallah Rabea-(Founder - Fullstack Developer)</a>
+- <a href="https://github.com/kklrh">Abdallah Rabea-(Team member - Fullstack Developer)</a>
 - <a href="https://github.com/mas7or123">Mohamed Nasr-(Team member - Backend Developer)</a>
 - <a href="https://github.com/Ahmedsamehm">Ahmed Sameh-(Team member - Frontend Developer)</a>
-- <a href="https://github.com/EXPabedeir">Abdallah-(Team member - UI/UX & Fullstack Develoepr)</a>
-
+- <a href="https://github.com/EXPabedeir">Abdalla Bedeir-(Team member - UI/UX & Fullstack Develoepr)</a>
